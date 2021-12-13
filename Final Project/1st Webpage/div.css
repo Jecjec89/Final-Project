@@ -1,0 +1,12 @@
+div { 
+	text-align: center; 
+	padding:5px; 
+	font-size: 50px;
+	}
+table, th, td{ 
+	border:5px solid black;
+}
+th, td {
+	padding:10px;
+	}
+

@@ -1,0 +1,27 @@
+body{
+	background-color:#12163b;
+	color:white;
+}
+h3 a{
+	text-decoration:none;
+	color:white;
+}
+img{
+	padding-right:10px;
+	height:50%;
+	width: 40%;
+	float: left;
+}
+h1{
+	text-align:center;
+	margin:auto;
+}
+p{
+	font-size:20px;
+	margin: 5px;
+}
+ul li{
+	list-style-type:none;
+	font-size:20px
+}
+
